@@ -1,0 +1,367 @@
+Epoch 1/50
+224/224 [==============================] - ETA: 0s - loss: 2.2082 - accuracy: 0.1895
+Epoch 1: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 340s 2s/step - loss: 2.2082 - accuracy: 0.1895 - val_loss: 1.9172 - val_accuracy: 0.1727 - lr: 0.0100
+Epoch 2/50
+224/224 [==============================] - ETA: 0s - loss: 1.7145 - accuracy: 0.3107
+Epoch 2: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 346s 2s/step - loss: 1.7145 - accuracy: 0.3107 - val_loss: 1.9327 - val_accuracy: 0.1756 - lr: 0.0100
+Epoch 3/50
+224/224 [==============================] - ETA: 0s - loss: 1.5594 - accuracy: 0.4012
+Epoch 3: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 2s/step - loss: 1.5594 - accuracy: 0.4012 - val_loss: 1.6552 - val_accuracy: 0.3692 - lr: 0.0100
+Epoch 4/50
+224/224 [==============================] - ETA: 0s - loss: 1.4394 - accuracy: 0.4559
+Epoch 4: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 1s/step - loss: 1.4394 - accuracy: 0.4559 - val_loss: 1.2971 - val_accuracy: 0.5211 - lr: 0.0100
+Epoch 5/50
+224/224 [==============================] - ETA: 0s - loss: 1.3522 - accuracy: 0.4816
+Epoch 5: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 333s 1s/step - loss: 1.3522 - accuracy: 0.4816 - val_loss: 1.1761 - val_accuracy: 0.5648 - lr: 0.0100
+Epoch 6/50
+224/224 [==============================] - ETA: 0s - loss: 1.2914 - accuracy: 0.5100
+Epoch 6: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 332s 1s/step - loss: 1.2914 - accuracy: 0.5100 - val_loss: 1.1147 - val_accuracy: 0.5964 - lr: 0.0100
+Epoch 7/50
+224/224 [==============================] - ETA: 0s - loss: 1.2444 - accuracy: 0.5239
+Epoch 7: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 1.2444 - accuracy: 0.5239 - val_loss: 1.0805 - val_accuracy: 0.6045 - lr: 0.0100
+Epoch 8/50
+224/224 [==============================] - ETA: 0s - loss: 1.1927 - accuracy: 0.5418
+Epoch 8: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 340s 2s/step - loss: 1.1927 - accuracy: 0.5418 - val_loss: 1.0505 - val_accuracy: 0.6108 - lr: 0.0100
+Epoch 9/50
+224/224 [==============================] - ETA: 0s - loss: 1.1557 - accuracy: 0.5568
+Epoch 9: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 339s 2s/step - loss: 1.1557 - accuracy: 0.5568 - val_loss: 1.0254 - val_accuracy: 0.6172 - lr: 0.0100
+Epoch 10/50
+224/224 [==============================] - ETA: 0s - loss: 1.1226 - accuracy: 0.5623
+Epoch 10: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 2s/step - loss: 1.1226 - accuracy: 0.5623 - val_loss: 1.0093 - val_accuracy: 0.6247 - lr: 0.0100
+Epoch 11/50
+224/224 [==============================] - ETA: 0s - loss: 1.1002 - accuracy: 0.5726
+Epoch 11: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 2s/step - loss: 1.1002 - accuracy: 0.5726 - val_loss: 1.0014 - val_accuracy: 0.6244 - lr: 0.0100
+Epoch 12/50
+224/224 [==============================] - ETA: 0s - loss: 1.0656 - accuracy: 0.5838
+Epoch 12: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 2s/step - loss: 1.0656 - accuracy: 0.5838 - val_loss: 0.9959 - val_accuracy: 0.6305 - lr: 0.0100
+Epoch 13/50
+224/224 [==============================] - ETA: 0s - loss: 1.0410 - accuracy: 0.5889
+Epoch 13: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 332s 1s/step - loss: 1.0410 - accuracy: 0.5889 - val_loss: 0.9786 - val_accuracy: 0.6409 - lr: 0.0100
+Epoch 14/50
+224/224 [==============================] - ETA: 0s - loss: 1.0273 - accuracy: 0.5960
+Epoch 14: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 1s/step - loss: 1.0273 - accuracy: 0.5960 - val_loss: 0.9698 - val_accuracy: 0.6415 - lr: 0.0100
+Epoch 15/50
+224/224 [==============================] - ETA: 0s - loss: 0.9997 - accuracy: 0.6038
+Epoch 15: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 333s 1s/step - loss: 0.9997 - accuracy: 0.6038 - val_loss: 0.9717 - val_accuracy: 0.6490 - lr: 0.0100
+Epoch 16/50
+224/224 [==============================] - ETA: 0s - loss: 0.9909 - accuracy: 0.6041
+Epoch 16: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 335s 1s/step - loss: 0.9909 - accuracy: 0.6041 - val_loss: 0.9501 - val_accuracy: 0.6470 - lr: 0.0100
+Epoch 17/50
+224/224 [==============================] - ETA: 0s - loss: 0.9679 - accuracy: 0.6145
+Epoch 17: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 333s 1s/step - loss: 0.9679 - accuracy: 0.6145 - val_loss: 0.9283 - val_accuracy: 0.6560 - lr: 0.0100
+Epoch 18/50
+224/224 [==============================] - ETA: 0s - loss: 0.9588 - accuracy: 0.6154
+Epoch 18: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 0.9588 - accuracy: 0.6154 - val_loss: 0.9404 - val_accuracy: 0.6496 - lr: 0.0100
+Epoch 19/50
+224/224 [==============================] - ETA: 0s - loss: 0.9293 - accuracy: 0.6227
+Epoch 19: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 0.9293 - accuracy: 0.6227 - val_loss: 0.9402 - val_accuracy: 0.6531 - lr: 0.0100
+Epoch 20/50
+224/224 [==============================] - ETA: 0s - loss: 0.9297 - accuracy: 0.6252
+Epoch 20: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 334s 1s/step - loss: 0.9297 - accuracy: 0.6252 - val_loss: 0.9462 - val_accuracy: 0.6490 - lr: 0.0100
+Epoch 21/50
+224/224 [==============================] - ETA: 0s - loss: 0.9298 - accuracy: 0.6284
+Epoch 21: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 1s/step - loss: 0.9298 - accuracy: 0.6284 - val_loss: 0.9286 - val_accuracy: 0.6652 - lr: 0.0100
+Epoch 22/50
+224/224 [==============================] - ETA: 0s - loss: 0.9166 - accuracy: 0.6306
+Epoch 22: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 346s 2s/step - loss: 0.9166 - accuracy: 0.6306 - val_loss: 0.9327 - val_accuracy: 0.6554 - lr: 0.0100
+Epoch 23/50
+224/224 [==============================] - ETA: 0s - loss: 0.8932 - accuracy: 0.6329
+Epoch 23: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 0.8932 - accuracy: 0.6329 - val_loss: 0.9142 - val_accuracy: 0.6667 - lr: 0.0100
+Epoch 24/50
+224/224 [==============================] - ETA: 0s - loss: 0.8853 - accuracy: 0.6447
+Epoch 24: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 335s 1s/step - loss: 0.8853 - accuracy: 0.6447 - val_loss: 0.9158 - val_accuracy: 0.6667 - lr: 0.0100
+Epoch 25/50
+224/224 [==============================] - ETA: 0s - loss: 0.8747 - accuracy: 0.6442
+Epoch 25: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 1s/step - loss: 0.8747 - accuracy: 0.6442 - val_loss: 0.9156 - val_accuracy: 0.6719 - lr: 0.0100
+Epoch 26/50
+224/224 [==============================] - ETA: 0s - loss: 0.8626 - accuracy: 0.6443
+Epoch 26: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 1s/step - loss: 0.8626 - accuracy: 0.6443 - val_loss: 0.9130 - val_accuracy: 0.6589 - lr: 0.0100
+Epoch 27/50
+224/224 [==============================] - ETA: 0s - loss: 0.8623 - accuracy: 0.6478
+Epoch 27: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 1s/step - loss: 0.8623 - accuracy: 0.6478 - val_loss: 0.9007 - val_accuracy: 0.6742 - lr: 0.0100
+Epoch 28/50
+224/224 [==============================] - ETA: 0s - loss: 0.8624 - accuracy: 0.6505
+Epoch 28: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 2s/step - loss: 0.8624 - accuracy: 0.6505 - val_loss: 0.8892 - val_accuracy: 0.6722 - lr: 0.0100
+Epoch 29/50
+224/224 [==============================] - ETA: 0s - loss: 0.8435 - accuracy: 0.6531
+Epoch 29: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 2s/step - loss: 0.8435 - accuracy: 0.6531 - val_loss: 0.8928 - val_accuracy: 0.6690 - lr: 0.0100
+Epoch 30/50
+224/224 [==============================] - ETA: 0s - loss: 0.8398 - accuracy: 0.6555
+Epoch 30: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 1s/step - loss: 0.8398 - accuracy: 0.6555 - val_loss: 0.9064 - val_accuracy: 0.6710 - lr: 0.0100
+Epoch 31/50
+224/224 [==============================] - ETA: 0s - loss: 0.8273 - accuracy: 0.6592
+Epoch 31: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 339s 2s/step - loss: 0.8273 - accuracy: 0.6592 - val_loss: 0.9054 - val_accuracy: 0.6756 - lr: 0.0100
+Epoch 32/50
+224/224 [==============================] - ETA: 0s - loss: 0.8162 - accuracy: 0.6631
+Epoch 32: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 0.8162 - accuracy: 0.6631 - val_loss: 0.8860 - val_accuracy: 0.6753 - lr: 0.0100
+Epoch 33/50
+224/224 [==============================] - ETA: 0s - loss: 0.7992 - accuracy: 0.6670
+Epoch 33: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 2s/step - loss: 0.7992 - accuracy: 0.6670 - val_loss: 0.8867 - val_accuracy: 0.6782 - lr: 0.0100
+Epoch 34/50
+224/224 [==============================] - ETA: 0s - loss: 0.8071 - accuracy: 0.6673
+Epoch 34: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 2s/step - loss: 0.8071 - accuracy: 0.6673 - val_loss: 0.8771 - val_accuracy: 0.6855 - lr: 0.0100
+Epoch 35/50
+224/224 [==============================] - ETA: 0s - loss: 0.8054 - accuracy: 0.6687
+Epoch 35: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 340s 2s/step - loss: 0.8054 - accuracy: 0.6687 - val_loss: 0.8753 - val_accuracy: 0.6832 - lr: 0.0100
+Epoch 36/50
+224/224 [==============================] - ETA: 0s - loss: 0.7939 - accuracy: 0.6745
+Epoch 36: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 0.7939 - accuracy: 0.6745 - val_loss: 0.8730 - val_accuracy: 0.6846 - lr: 0.0100
+Epoch 37/50
+224/224 [==============================] - ETA: 0s - loss: 0.7851 - accuracy: 0.6744
+Epoch 37: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 340s 2s/step - loss: 0.7851 - accuracy: 0.6744 - val_loss: 0.8818 - val_accuracy: 0.6858 - lr: 0.0100
+Epoch 38/50
+224/224 [==============================] - ETA: 0s - loss: 0.7823 - accuracy: 0.6782
+Epoch 38: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 2s/step - loss: 0.7823 - accuracy: 0.6782 - val_loss: 0.8748 - val_accuracy: 0.6901 - lr: 0.0100
+Epoch 39/50
+224/224 [==============================] - ETA: 0s - loss: 0.7695 - accuracy: 0.6809
+Epoch 39: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 346s 2s/step - loss: 0.7695 - accuracy: 0.6809 - val_loss: 0.8685 - val_accuracy: 0.6918 - lr: 0.0100
+Epoch 40/50
+224/224 [==============================] - ETA: 0s - loss: 0.7599 - accuracy: 0.6838
+Epoch 40: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 345s 2s/step - loss: 0.7599 - accuracy: 0.6838 - val_loss: 0.8515 - val_accuracy: 0.6936 - lr: 0.0100
+Epoch 41/50
+224/224 [==============================] - ETA: 0s - loss: 0.7635 - accuracy: 0.6847
+Epoch 41: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 345s 2s/step - loss: 0.7635 - accuracy: 0.6847 - val_loss: 0.8646 - val_accuracy: 0.6887 - lr: 0.0100
+
+Epoch 1/50
+224/224 [==============================] - ETA: 0s - loss: 0.7289 - accuracy: 0.6977
+Epoch 1: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 351s 1s/step - loss: 0.7289 - accuracy: 0.6977 - val_loss: 0.8549 - val_accuracy: 0.6927 - lr: 0.0100
+Epoch 2/50
+224/224 [==============================] - ETA: 0s - loss: 0.7367 - accuracy: 0.6966
+Epoch 2: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 1s/step - loss: 0.7367 - accuracy: 0.6966 - val_loss: 0.8733 - val_accuracy: 0.6904 - lr: 0.0100
+Epoch 3/50
+224/224 [==============================] - ETA: 0s - loss: 0.7243 - accuracy: 0.7002
+Epoch 3: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 339s 2s/step - loss: 0.7243 - accuracy: 0.7002 - val_loss: 0.8548 - val_accuracy: 0.6936 - lr: 0.0100
+Epoch 4/50
+224/224 [==============================] - ETA: 0s - loss: 0.7261 - accuracy: 0.6995
+Epoch 4: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 341s 2s/step - loss: 0.7261 - accuracy: 0.6995 - val_loss: 0.8453 - val_accuracy: 0.6953 - lr: 0.0100
+Epoch 5/50
+224/224 [==============================] - ETA: 0s - loss: 0.7075 - accuracy: 0.7027
+Epoch 5: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 0.7075 - accuracy: 0.7027 - val_loss: 0.8512 - val_accuracy: 0.6933 - lr: 0.0100
+Epoch 6/50
+224/224 [==============================] - ETA: 0s - loss: 0.7074 - accuracy: 0.7042
+Epoch 6: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 2s/step - loss: 0.7074 - accuracy: 0.7042 - val_loss: 0.8489 - val_accuracy: 0.7025 - lr: 0.0100
+Epoch 7/50
+224/224 [==============================] - ETA: 0s - loss: 0.7028 - accuracy: 0.7081
+Epoch 7: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 0.7028 - accuracy: 0.7081 - val_loss: 0.8443 - val_accuracy: 0.6988 - lr: 0.0100
+Epoch 8/50
+224/224 [==============================] - ETA: 0s - loss: 0.7013 - accuracy: 0.7051
+Epoch 8: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 1s/step - loss: 0.7013 - accuracy: 0.7051 - val_loss: 0.8372 - val_accuracy: 0.7011 - lr: 0.0100
+Epoch 9/50
+224/224 [==============================] - ETA: 0s - loss: 0.6923 - accuracy: 0.7103
+Epoch 9: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 2s/step - loss: 0.6923 - accuracy: 0.7103 - val_loss: 0.8468 - val_accuracy: 0.6968 - lr: 0.0100
+Epoch 10/50
+224/224 [==============================] - ETA: 0s - loss: 0.6838 - accuracy: 0.7135
+Epoch 10: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 339s 2s/step - loss: 0.6838 - accuracy: 0.7135 - val_loss: 0.8373 - val_accuracy: 0.7028 - lr: 0.0100
+Epoch 11/50
+224/224 [==============================] - ETA: 0s - loss: 0.6867 - accuracy: 0.7120
+Epoch 11: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 2s/step - loss: 0.6867 - accuracy: 0.7120 - val_loss: 0.8397 - val_accuracy: 0.6959 - lr: 0.0100
+Epoch 12/50
+224/224 [==============================] - ETA: 0s - loss: 0.6841 - accuracy: 0.7158
+Epoch 12: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 2s/step - loss: 0.6841 - accuracy: 0.7158 - val_loss: 0.8431 - val_accuracy: 0.7005 - lr: 0.0100
+Epoch 13/50
+224/224 [==============================] - ETA: 0s - loss: 0.6820 - accuracy: 0.7105
+Epoch 13: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 335s 1s/step - loss: 0.6820 - accuracy: 0.7105 - val_loss: 0.8315 - val_accuracy: 0.6988 - lr: 0.0100
+Epoch 14/50
+224/224 [==============================] - ETA: 0s - loss: 0.6715 - accuracy: 0.7209
+Epoch 14: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 335s 1s/step - loss: 0.6715 - accuracy: 0.7209 - val_loss: 0.8304 - val_accuracy: 0.7020 - lr: 0.0100
+Epoch 15/50
+224/224 [==============================] - ETA: 0s - loss: 0.6557 - accuracy: 0.7228
+Epoch 15: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 0.6557 - accuracy: 0.7228 - val_loss: 0.8378 - val_accuracy: 0.7011 - lr: 0.0100
+Epoch 16/50
+224/224 [==============================] - ETA: 0s - loss: 0.6605 - accuracy: 0.7213
+Epoch 16: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 2s/step - loss: 0.6605 - accuracy: 0.7213 - val_loss: 0.8370 - val_accuracy: 0.7020 - lr: 0.0100
+Epoch 17/50
+224/224 [==============================] - ETA: 0s - loss: 0.6620 - accuracy: 0.7232
+Epoch 17: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 1s/step - loss: 0.6620 - accuracy: 0.7232 - val_loss: 0.8425 - val_accuracy: 0.6985 - lr: 0.0100
+Epoch 18/50
+224/224 [==============================] - ETA: 0s - loss: 0.6548 - accuracy: 0.7260
+Epoch 18: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 335s 1s/step - loss: 0.6548 - accuracy: 0.7260 - val_loss: 0.8245 - val_accuracy: 0.7075 - lr: 0.0100
+Epoch 19/50
+224/224 [==============================] - ETA: 0s - loss: 0.6503 - accuracy: 0.7268
+Epoch 19: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 0.6503 - accuracy: 0.7268 - val_loss: 0.8324 - val_accuracy: 0.7078 - lr: 0.0100
+Epoch 20/50
+224/224 [==============================] - ETA: 0s - loss: 0.6368 - accuracy: 0.7300
+Epoch 20: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 0.6368 - accuracy: 0.7300 - val_loss: 0.8264 - val_accuracy: 0.7092 - lr: 0.0100
+Epoch 21/50
+224/224 [==============================] - ETA: 0s - loss: 0.6406 - accuracy: 0.7314
+Epoch 21: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 339s 2s/step - loss: 0.6406 - accuracy: 0.7314 - val_loss: 0.8281 - val_accuracy: 0.7075 - lr: 0.0100
+Epoch 22/50
+224/224 [==============================] - ETA: 0s - loss: 0.6414 - accuracy: 0.7322
+Epoch 22: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 339s 2s/step - loss: 0.6414 - accuracy: 0.7322 - val_loss: 0.8219 - val_accuracy: 0.7141 - lr: 0.0100
+Epoch 23/50
+224/224 [==============================] - ETA: 0s - loss: 0.6360 - accuracy: 0.7331
+Epoch 23: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 335s 1s/step - loss: 0.6360 - accuracy: 0.7331 - val_loss: 0.8236 - val_accuracy: 0.7092 - lr: 0.0100
+Epoch 24/50
+224/224 [==============================] - ETA: 0s - loss: 0.6308 - accuracy: 0.7356
+Epoch 24: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 1s/step - loss: 0.6308 - accuracy: 0.7356 - val_loss: 0.8196 - val_accuracy: 0.7133 - lr: 0.0100
+Epoch 25/50
+224/224 [==============================] - ETA: 0s - loss: 0.6253 - accuracy: 0.7365
+Epoch 25: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 343s 2s/step - loss: 0.6253 - accuracy: 0.7365 - val_loss: 0.8131 - val_accuracy: 0.7141 - lr: 0.0100
+Epoch 26/50
+224/224 [==============================] - ETA: 0s - loss: 0.6252 - accuracy: 0.7409
+Epoch 26: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 334s 1s/step - loss: 0.6252 - accuracy: 0.7409 - val_loss: 0.8247 - val_accuracy: 0.7112 - lr: 0.0100
+Epoch 27/50
+224/224 [==============================] - ETA: 0s - loss: 0.6081 - accuracy: 0.7430
+Epoch 27: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 1s/step - loss: 0.6081 - accuracy: 0.7430 - val_loss: 0.8152 - val_accuracy: 0.7147 - lr: 0.0100
+Epoch 28/50
+224/224 [==============================] - ETA: 0s - loss: 0.6110 - accuracy: 0.7425
+Epoch 28: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 332s 1s/step - loss: 0.6110 - accuracy: 0.7425 - val_loss: 0.8157 - val_accuracy: 0.7095 - lr: 0.0100
+Epoch 29/50
+224/224 [==============================] - ETA: 0s - loss: 0.6124 - accuracy: 0.7395
+Epoch 29: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 333s 1s/step - loss: 0.6124 - accuracy: 0.7395 - val_loss: 0.8088 - val_accuracy: 0.7173 - lr: 0.0100
+Epoch 30/50
+224/224 [==============================] - ETA: 0s - loss: 0.6097 - accuracy: 0.7433
+Epoch 30: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 332s 1s/step - loss: 0.6097 - accuracy: 0.7433 - val_loss: 0.8201 - val_accuracy: 0.7147 - lr: 0.0100
+Epoch 31/50
+224/224 [==============================] - ETA: 0s - loss: 0.6056 - accuracy: 0.7466
+Epoch 31: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 333s 1s/step - loss: 0.6056 - accuracy: 0.7466 - val_loss: 0.8124 - val_accuracy: 0.7133 - lr: 0.0100
+Epoch 32/50
+224/224 [==============================] - ETA: 0s - loss: 0.6047 - accuracy: 0.7478
+Epoch 32: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 333s 1s/step - loss: 0.6047 - accuracy: 0.7478 - val_loss: 0.8251 - val_accuracy: 0.7098 - lr: 0.0100
+Epoch 33/50
+224/224 [==============================] - ETA: 0s - loss: 0.5928 - accuracy: 0.7503
+Epoch 33: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 342s 2s/step - loss: 0.5928 - accuracy: 0.7503 - val_loss: 0.8132 - val_accuracy: 0.7170 - lr: 0.0100
+Epoch 34/50
+224/224 [==============================] - ETA: 0s - loss: 0.6018 - accuracy: 0.7475
+Epoch 34: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 340s 2s/step - loss: 0.6018 - accuracy: 0.7475 - val_loss: 0.8118 - val_accuracy: 0.7133 - lr: 0.0100
+Epoch 35/50
+224/224 [==============================] - ETA: 0s - loss: 0.5944 - accuracy: 0.7487
+Epoch 35: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 344s 2s/step - loss: 0.5944 - accuracy: 0.7487 - val_loss: 0.8159 - val_accuracy: 0.7173 - lr: 0.0100
+Epoch 36/50
+224/224 [==============================] - ETA: 0s - loss: 0.5938 - accuracy: 0.7506
+Epoch 36: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 343s 2s/step - loss: 0.5938 - accuracy: 0.7506 - val_loss: 0.8223 - val_accuracy: 0.7072 - lr: 0.0100
+Epoch 37/50
+224/224 [==============================] - ETA: 0s - loss: 0.5874 - accuracy: 0.7538
+Epoch 37: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 2s/step - loss: 0.5874 - accuracy: 0.7538 - val_loss: 0.8124 - val_accuracy: 0.7127 - lr: 0.0100
+Epoch 38/50
+224/224 [==============================] - ETA: 0s - loss: 0.5847 - accuracy: 0.7549
+Epoch 38: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 0.5847 - accuracy: 0.7549 - val_loss: 0.8111 - val_accuracy: 0.7161 - lr: 0.0100
+Epoch 39/50
+224/224 [==============================] - ETA: 0s - loss: 0.5809 - accuracy: 0.7543
+Epoch 39: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+
+Epoch 39: ReduceLROnPlateau reducing learning rate to 0.004999999888241291.
+224/224 [==============================] - 336s 1s/step - loss: 0.5809 - accuracy: 0.7543 - val_loss: 0.8087 - val_accuracy: 0.7147 - lr: 0.0100
+Epoch 40/50
+224/224 [==============================] - ETA: 0s - loss: 0.5708 - accuracy: 0.7624
+Epoch 40: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 0.5708 - accuracy: 0.7624 - val_loss: 0.8081 - val_accuracy: 0.7190 - lr: 0.0050
+Epoch 41/50
+224/224 [==============================] - ETA: 0s - loss: 0.5684 - accuracy: 0.7580
+Epoch 41: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 0.5684 - accuracy: 0.7580 - val_loss: 0.8103 - val_accuracy: 0.7173 - lr: 0.0050
+Epoch 42/50
+224/224 [==============================] - ETA: 0s - loss: 0.5646 - accuracy: 0.7595
+Epoch 42: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 1s/step - loss: 0.5646 - accuracy: 0.7595 - val_loss: 0.7976 - val_accuracy: 0.7214 - lr: 0.0050
+Epoch 43/50
+224/224 [==============================] - ETA: 0s - loss: 0.5585 - accuracy: 0.7633
+Epoch 43: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 1s/step - loss: 0.5585 - accuracy: 0.7633 - val_loss: 0.8053 - val_accuracy: 0.7182 - lr: 0.0050
+Epoch 44/50
+224/224 [==============================] - ETA: 0s - loss: 0.5510 - accuracy: 0.7653
+Epoch 44: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 337s 2s/step - loss: 0.5510 - accuracy: 0.7653 - val_loss: 0.8065 - val_accuracy: 0.7190 - lr: 0.0050
+Epoch 45/50
+224/224 [==============================] - ETA: 0s - loss: 0.5578 - accuracy: 0.7671
+Epoch 45: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 338s 2s/step - loss: 0.5578 - accuracy: 0.7671 - val_loss: 0.8120 - val_accuracy: 0.7161 - lr: 0.0050
+Epoch 46/50
+224/224 [==============================] - ETA: 0s - loss: 0.5526 - accuracy: 0.7674
+Epoch 46: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 335s 1s/step - loss: 0.5526 - accuracy: 0.7674 - val_loss: 0.8074 - val_accuracy: 0.7248 - lr: 0.0050
+Epoch 47/50
+224/224 [==============================] - ETA: 0s - loss: 0.5493 - accuracy: 0.7682
+Epoch 47: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 339s 2s/step - loss: 0.5493 - accuracy: 0.7682 - val_loss: 0.8024 - val_accuracy: 0.7211 - lr: 0.0050
+Epoch 48/50
+224/224 [==============================] - ETA: 0s - loss: 0.5487 - accuracy: 0.7661
+Epoch 48: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 334s 1s/step - loss: 0.5487 - accuracy: 0.7661 - val_loss: 0.8057 - val_accuracy: 0.7208 - lr: 0.0050
+Epoch 49/50
+224/224 [==============================] - ETA: 0s - loss: 0.5492 - accuracy: 0.7695
+Epoch 49: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 1s/step - loss: 0.5492 - accuracy: 0.7695 - val_loss: 0.8095 - val_accuracy: 0.7170 - lr: 0.0050
+Epoch 50/50
+224/224 [==============================] - ETA: 0s - loss: 0.5435 - accuracy: 0.7688
+Epoch 50: saving model to ./drive/MyDrive/Resnet_CW_model.h5
+224/224 [==============================] - 336s 1s/step - loss: 0.5435 - accuracy: 0.7688 - val_loss: 0.8121 - val_accuracy: 0.7202 - lr: 0.0050
